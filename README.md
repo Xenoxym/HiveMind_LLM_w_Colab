@@ -57,3 +57,6 @@ Joining the Training
   ```
   --initial_peers /dns4/x.tcp.ngrok.io/tcp/12345/p2p/ABCDE'
   ```
+
+### Results
+![image](https://github.com/user-attachments/assets/8cc840ef-f15d-4fa9-b029-d4e19aee02d5)
