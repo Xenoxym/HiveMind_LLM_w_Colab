@@ -60,3 +60,5 @@ Joining the Training
 
 ### Results
 ![image](https://github.com/user-attachments/assets/8cc840ef-f15d-4fa9-b029-d4e19aee02d5)
+![W B Chart 2024_12_11 23_27_38](https://github.com/user-attachments/assets/9845a678-7d9b-489b-9aa9-d7a7dd4e99a3)
+
